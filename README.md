@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darshana-Khedkar</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
  
 
@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshana-khedkar" alt="darshana-khedkar" /></a> </p>
 
-- "Currently, I’m working on COLLEGE PLACEMENT PORTAL projects as I am transitioning from my academic career and internship to seeking a full-time position. **COLLEGE PLACEMENT PORTAL**
+-  👯 I’m looking to collaborate on **Innovative software development or DevOps projects**
 
-- 🌱 I’m currently learning **Programming Languages: Proficient in Java and Python. Web Development: Experienced with HTML, CSS, JavaScript, PHP, and frameworks like Bootstrap. Database Management: Skilled in SQL, MySQL, and database design. Containerization and Orchestration: Knowledgeable in Docker and Kubernetes, and hold certifications such as DO188 and RHCSA. DevOps Practices: Familiar with CI/CD pipelines and Agile methodologies.**
+-  🌱 I’m currently learning **Containerization, Kubernetes, and advanced DevOps practices. I’m also enhancing my skills in AI/ML and Python development.**
 
 - 👨‍💻 All of my projects are available at [github.com/Darshana-Khedkar](github.com/Darshana-Khedkar)
 
-- 💬 Ask me about **Python,MySQL, SQL, oracle, Redhat, System Administrator**
+- 💬 Ask me about **Python,MySQL, SQL, oracle, Redhat, System Administrator, Containerization, Podman, Docker**
 
 - 📫 How to reach me **khedkar440@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Hq-ptydnc6Q0kd7L0gkGyrC-zl3s0We8/view?usp=drive_link](https://drive.google.com/file/d/1Hq-ptydnc6Q0kd7L0gkGyrC-zl3s0We8/view?usp=drive_link)
+- 📄 Here is my CV [https://drive.google.com/file/d/1Hq-ptydnc6Q0kd7L0gkGyrC-zl3s0We8/view?usp=drive_link](https://drive.google.com/file/d/1Hq-ptydnc6Q0kd7L0gkGyrC-zl3s0We8/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
