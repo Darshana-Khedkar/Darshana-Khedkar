@@ -11,7 +11,7 @@
 
 -  🌱 I’m currently learning **Containerization, Kubernetes, and advanced DevOps practices. I’m also enhancing my skills in AI/ML and Python development.**
 
-- 👨‍💻 All of my projects are available at [github.com/Darshana-Khedkar](github.com/Darshana-Khedkar)
+- 👨‍💻 All of my projects are available at [https://github.com/Darshana-Khedkar](https://github.com/Darshana-Khedkar)
 
 - 💬 Ask me about **Python,MySQL, SQL, oracle, Redhat, System Administrator, Containerization, Podman, Docker**
 
