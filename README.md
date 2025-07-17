@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **khedkar440@gmail.com**
 
-- 📄 Here is my CV [https://drive.google.com/file/d/1ZcAA9TBv3pvO_ldl9QxuWBF4OvN8XE_8/view?usp=sharing](https://drive.google.com/file/d/11gfxvcr_-258eOzAXWBhFDoF4eYSIi3_/view?usp=sharing)
+- 📄 Here is my CV [https://drive.google.com/file/d/1ZcAA9TBv3pvO_ldl9QxuWBF4OvN8XE_8/view?usp=sharing](https://drive.google.com/file/d/1ZcAA9TBv3pvO_ldl9QxuWBF4OvN8XE_8/view?usp=sharing)
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
