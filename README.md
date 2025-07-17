@@ -18,8 +18,8 @@
 
 - 📫 How to reach me **khedkar440@gmail.com**
 
-- 📄 Here is my CV [https://drive.google.com/file/d/1Hq-ptydnc6Q0kd7L0gkGyrC-zl3s0We8/view?usp=drive_link](https://drive.google.com/file/d/11gfxvcr_-258eOzAXWBhFDoF4eYSIi3_/view?usp=sharing)
-
+- 📄 Here is my CV [https://drive.google.com/file/d/1ZcAA9TBv3pvO_ldl9QxuWBF4OvN8XE_8/view?usp=sharing](https://drive.google.com/file/d/11gfxvcr_-258eOzAXWBhFDoF4eYSIi3_/view?usp=sharing)
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/darshana-khedkar-7a483920a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/darshana-khedkar-7a483920a/" height="30" width="40" /></a>
