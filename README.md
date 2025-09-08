@@ -1,29 +1,50 @@
 <!-- Banner -->
-<img src="https://i.ibb.co/k5FGp1s/github-banner.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Darshana-Khedkar/Darshana-Khedkar/main/Black%20&%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png" width="100%">
 
 # 👋 Hi, I'm Darshana Khedkar  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&lines=Java+Backend+Developer;AI+Learner;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&lines=Java+Backend+Developer;Certified+in+RHCSA+%26+DO188;Full+Stack+Developer;AI+%26+Data+Science+Learner)](https://git.io/typing-svg)
 
-💻 Passionate about **Java Backend Development**, **APIs**, and learning **AI/Data Science**.  
-🚀 Always exploring new technologies and building impactful projects.  
+💻 A **Java Backend Developer** skilled in **Spring Boot, Hibernate, REST APIs, SQL, and Microservices**.  
+🚀 Passionate about backend engineering, secure coding, containerization, and cloud technologies.  
+📚 Certified in **Full Stack Development, RHCSA, and Container Development (DO188)**.  
 
 ---
 
 ## 💼 Experience
-- **Java Backend Developer Intern** @ XYZ Company (Apr 2025 – Present)  
-  - Developed REST APIs using **Spring Boot & MySQL**  
-  - Worked on authentication, CRUD operations, and deployment  
-- **Personal Projects**  
-  - 🧠 **JobFit-AI** – AI-powered job matching application  
-  - 🌐 **Portfolio Website** – Showcasing my skills and experience  
+### Java Developer – MaxxZoom (Apr 2025 – Present)
+- Built and deployed full-stack Java applications using **Spring Boot, Hibernate, JSP, Servlets**.  
+- Designed **REST APIs** and validated them with **Postman**.  
+- Managed databases with **PostgreSQL & H2** for dev/testing.  
+- Automated builds using **Maven**.  
+
+### Web Developer Intern – Cognifront
+- Built **Online Table Booking System** with **PHP, MySQL, Bootstrap, JS**.  
+- Improved web development skills and database management.  
 
 ---
 
-## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,git,github,aws,react,html,css,js" />
+## 🎓 Academic Projects
+- **College Placement Portal** (Java, Spring Boot, MySQL) – Login, job listings, admin modules.  
+- **Healthcare App** (Android + Python analytics) – Personal health tracking.  
+- **E-Commerce Plant Nursery** (Java, JSP, MySQL) – Authentication, cart, wishlist, orders.  
+- **Grocery Store App** (Java, JDBC, SQL) – Inventory and stock management system.  
+
+---
+
+## 🛠️ Technical Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgresql,python,docker,kubernetes,aws,php,html,css,js,bootstrap,git,github" />
 </p>
+
+---
+
+## 📜 Certifications
+- ✅ Full Stack Web Development  
+- ✅ Oracle Academy – Database Design, Java Foundation  
+- ✅ Python Programming  
+- ✅ RHCSA – Red Hat Certified System Administrator  
+- ✅ DO188 – Red Hat Certified Specialist in Containers  
 
 ---
 
@@ -45,11 +66,11 @@
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/darshana-khedkar" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="mailto:darshanakhedkar@example.com">
+  <a href="mailto:khedkar440@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
