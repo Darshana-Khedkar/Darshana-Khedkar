@@ -1,39 +1,60 @@
-![logo](https://github.com/Darshana-Khedkar/Darshana-Khedkar/blob/main/GitHub%20Banner.png)
-<h1 align="center">Hi 👋, I'm Darshana Khedkar</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<!-- Banner -->
+<img src="https://i.ibb.co/k5FGp1s/github-banner.gif" width="100%">
 
- 
+# 👋 Hi, I'm Darshana Khedkar  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshana-khedkar&label=Profile%20views&color=0e75b6&style=flat" alt="darshana-khedkar" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&lines=Java+Backend+Developer;AI+Learner;Open+Source+Contributor)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshana-khedkar" alt="darshana-khedkar" /></a> </p>
+💻 Passionate about **Java Backend Development**, **APIs**, and learning **AI/Data Science**.  
+🚀 Always exploring new technologies and building impactful projects.  
 
--  👯 I’m looking to collaborate on **Innovative software development or DevOps projects**
+---
 
--  🌱 I’m currently learning **Containerization, Kubernetes, and advanced DevOps practices. I’m also enhancing my skills in AI/ML and Python development.**
+## 💼 Experience
+- **Java Backend Developer Intern** @ XYZ Company (Apr 2025 – Present)  
+  - Developed REST APIs using **Spring Boot & MySQL**  
+  - Worked on authentication, CRUD operations, and deployment  
+- **Personal Projects**  
+  - 🧠 **JobFit-AI** – AI-powered job matching application  
+  - 🌐 **Portfolio Website** – Showcasing my skills and experience  
 
-- 👨‍💻 All of my projects are available at [https://github.com/Darshana-Khedkar](https://github.com/Darshana-Khedkar)
+---
 
-- 💬 Ask me about **Python,MySQL, SQL, oracle, Redhat, System Administrator, Containerization, Podman, Docker**
-
-- 📫 How to reach me **khedkar440@gmail.com**
-
-- 📄 Here is my CV [https://drive.google.com/file/d/1ZcAA9TBv3pvO_ldl9QxuWBF4OvN8XE_8/view?usp=sharing](https://drive.google.com/file/d/1ZcAA9TBv3pvO_ldl9QxuWBF4OvN8XE_8/view?usp=sharing)
- 
-<h3 align="left">Connect with me:</h3>
+## 🛠️ Tech Stack
 <p align="left">
-<a href="https://linkedin.com/in/darshana-khedkar-7a483920a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/darshana-khedkar-7a483920a/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/khedkar440" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khedkar440" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/khedkar440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khedkar440" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/khedkar440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khedkar440" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/khedkar440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khedkar440" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/khedkar440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="khedkar440" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/khedkar440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="khedkar440" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,git,github,aws,react,html,css,js" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshana-khedkar&show_icons=true&locale=en&layout=compact" alt="darshana-khedkar" /></p>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Darshana-Khedkar&show_icons=true&theme=radical" height="150">
+  <img src="https://streak-stats.demolab.com?user=Darshana-Khedkar&theme=radical" height="150">
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshana-khedkar&show_icons=true&locale=en" alt="darshana-khedkar" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshana-Khedkar&layout=compact&theme=radical" height="150">
+</p>
+
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/Darshana-Khedkar/Darshana-Khedkar/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/darshana-khedkar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="mailto:darshanakhedkar@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Darshana-Khedkar&color=blueviolet)
+[![GitHub followers](https://img.shields.io/github/followers/Darshana-Khedkar?style=social)](https://github.com/Darshana-Khedkar)
